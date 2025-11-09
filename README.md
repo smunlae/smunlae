@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Building data-driven apps and Telegram Mini Apps.</strong><br/>
-  <em>Shipped Gift Bubbles (10k MAU, 300–500 DAU) — profit/loss from ~1h → ~1min.</em>
+  <em>Shipped Gift Bubbles (10k MAU, 300–500 DAU) — assets profit/loss calculation from ~1h → ~1min.</em>
 </p>
 
 ---
