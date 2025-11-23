@@ -15,20 +15,127 @@
 
 ## Skills
 
-<!-- Backend -->
-<p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,java,nodejs,express" height="32" alt="Backend: Python (FastAPI/Flask), Java, Node/Express" />
-</p>
+<table align="center">
+<tr>
 
-<!-- Frontend -->
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,d3,tailwind,ts,js,html,css" height="32" alt="Frontend: React, Next.js, D3.js, Tailwind, TypeScript/JS, HTML/CSS" />
-</p>
+<!-- ===== BACKEND (LEFT) ===== -->
+<td valign="top" align="center" width="33%">
+  <h3>Backend</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py" width="40"/><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br/>Flask
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express
+      </td>
+    </tr>
+  </table>
+</td>
 
-<!-- Data & DevOps -->
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,mysql,sqlite,docker,linux,git,githubactions,vercel" height="32" alt="Data & DevOps: PostgreSQL, Redis, MySQL, SQLite, Docker, Linux, Git, GitHub Actions, Vercel" />
-</p>
+<!-- ===== FRONTEND (CENTER) ===== -->
+<td valign="top" align="center" width="33%">
+  <h3>Frontend</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=d3" width="40"/><br/>D3.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS
+      </td>
+    </tr>
+  </table>
+</td>
+
+<!-- ===== DATA & DEVOPS (RIGHT) ===== -->
+<td valign="top" align="center" width="33%">
+  <h3>Databases & DevOps</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/>SQLite
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" width="40"/><br/>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br/>GitHub Actions
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
